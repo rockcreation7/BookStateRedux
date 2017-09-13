@@ -23,6 +23,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-# react-redux-sample
-# react-redux-sample
-# react-redux-sample
+
